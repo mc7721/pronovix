@@ -1,0 +1,65 @@
+{
+    "name": "Pronovix",
+    "description": "Pronovix is a software development company building and integrating complex web systems in Drupal. We operate internationally, with offices in Belgium and Hungary, working to become a valuable partner, rather than a simple supplier for our clients worl...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/21079-pronovix-com.jpg",
+    "tags": [
+        "api service provider",
+        "have api",
+        "portals"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pronovix\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Pronovix",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/21079-pronovix-com.jpg",
+            "humanURL": "https:\/\/pronovix.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pronovix-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pronovix-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/pronovix"
+        },
+        {
+            "type": "Email",
+            "url": "info@pronovix.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Pronovix"
+        },
+        {
+            "type": "Curated Source",
+            "url": "http:\/\/pronovix.com\/blog\/api-web-needs-gui"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/pronovix.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/pronovix"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/pronovix.com"
+        }
+    ]
+}
